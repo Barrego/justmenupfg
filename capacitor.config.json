@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "justmenupfg",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

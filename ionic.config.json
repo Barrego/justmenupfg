@@ -1,0 +1,7 @@
+{
+  "name": "justmenupfg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
